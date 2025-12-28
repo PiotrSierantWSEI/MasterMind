@@ -16,3 +16,4 @@ C:\Users\piotr\Desktop\MasterMind\MasterMind.CLI\obj\Debug\net9.0\refint\MasterM
 C:\Users\piotr\Desktop\MasterMind\MasterMind.CLI\obj\Debug\net9.0\MasterMind.CLI.pdb
 C:\Users\piotr\Desktop\MasterMind\MasterMind.CLI\obj\Debug\net9.0\MasterMind.CLI.genruntimeconfig.cache
 C:\Users\piotr\Desktop\MasterMind\MasterMind.CLI\obj\Debug\net9.0\ref\MasterMind.CLI.dll
+C:\Users\piotr\Desktop\MasterMind\MasterMind.CLI\obj\Debug\net9.0\MasterMind.CLI.sourcelink.json

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eRNpubLUBbH92ET/FLcmhJR+aUUXzI+8hm1CGP8a/u8=",
+  "Source": "MasterMind.Api",
+  "BasePath": "_content/MasterMind.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

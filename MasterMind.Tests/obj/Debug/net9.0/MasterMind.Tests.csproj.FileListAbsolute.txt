@@ -105,3 +105,4 @@ C:\Users\piotr\Desktop\MasterMind\MasterMind.Tests\obj\Debug\net9.0\refint\Maste
 C:\Users\piotr\Desktop\MasterMind\MasterMind.Tests\obj\Debug\net9.0\MasterMind.Tests.pdb
 C:\Users\piotr\Desktop\MasterMind\MasterMind.Tests\obj\Debug\net9.0\MasterMind.Tests.genruntimeconfig.cache
 C:\Users\piotr\Desktop\MasterMind\MasterMind.Tests\obj\Debug\net9.0\ref\MasterMind.Tests.dll
+C:\Users\piotr\Desktop\MasterMind\MasterMind.Tests\obj\Debug\net9.0\MasterMind.Tests.sourcelink.json

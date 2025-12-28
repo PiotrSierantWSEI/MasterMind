@@ -9,3 +9,4 @@ C:\Users\piotr\Desktop\MasterMind\MasterMind.Core\obj\Debug\net9.0\MasterMind.Co
 C:\Users\piotr\Desktop\MasterMind\MasterMind.Core\obj\Debug\net9.0\refint\MasterMind.Core.dll
 C:\Users\piotr\Desktop\MasterMind\MasterMind.Core\obj\Debug\net9.0\MasterMind.Core.pdb
 C:\Users\piotr\Desktop\MasterMind\MasterMind.Core\obj\Debug\net9.0\ref\MasterMind.Core.dll
+C:\Users\piotr\Desktop\MasterMind\MasterMind.Core\obj\Debug\net9.0\MasterMind.Core.sourcelink.json
